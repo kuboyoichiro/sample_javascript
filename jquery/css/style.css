@@ -1,0 +1,11 @@
+.square {
+    background-color: #eee;
+    border: 1px solid #000;
+    width: 100px;
+    height: 100px;
+}
+
+.hoverText {
+    color: red;
+    font-size: 32px;
+}
